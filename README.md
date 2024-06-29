@@ -1,4 +1,5 @@
 Clase 11 Actividad en Python
+
 1. Abrir la terminal de Git Bash o terminal en Linux, debe ser como `administrador en Window`
 2. Creamos una carpeta o directorio: 
 `mkdir python-final`
@@ -36,10 +37,12 @@ Installing collected packages: pip
       Successfully uninstalled pip-24.0
 Successfully installed pip-24.1.1
 ```
-11. Investigar ¿Qué es el pip y porque lo actualizamos?
+
+## 11. Investigar ¿Qué es el pip y porque lo actualizamos?
 Pip es una herramienta que se utiliza junto con Python para instalar y administrar paquetes de software adicionales que no vienen incluidos con la instalación básica de Python. Los paquetes son conjuntos de código que se pueden reutilizar en diferentes proyectos de Python.
 
 Es importante actualizar pip regularmente para asegurarte de tener la última versión disponible. Las actualizaciones pueden incluir mejoras de seguridad, nuevas características y correcciones de errores. Esto garantiza que los paquetes que instales y las herramientas que uses en Python sean compatibles y estén optimizadas con las versiones más recientes de pip y de Python.
+
 12. Hacer al primer commit de este trabajo y unirlo al repositorio remoto.
 
 13. Enviar el enlace del repositorio remoto donde tiene que tener un README.md con todos los detalles de lo que les fui mostrando en comandos, y las respuesta del punto 11 de más arriba.
