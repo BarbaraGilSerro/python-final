@@ -21,6 +21,7 @@
 `venv/scripts/activate #En windows`
 10. Hacemos actualización del pip de Python
 `python3 -m pip install --upgrade pip #Actualizamos el pip`
+
 <sub>Resultado de la terminal</sub>
 
 ```sh
